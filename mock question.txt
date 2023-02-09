@@ -1,0 +1,38 @@
+Difference between “ == “ and “ === “ operators.
+What is the spread operator?
+What are the differences between var, let and const?
+What is execution context
+What is meant by first class functions
+What are closures?
+Explain prototypes
+What are function constructors?
+What is hoisting?
+What is the DOM?
+Difference between undefined vs not defined vs NaN
+How many operators do we have in JS ?
+What are pure functions?
+What is an event loop and call stack
+What is prototype chain
+What is the use of setTimeout
+What is callback hell
+What is creation phase and execution phase?
+What is a Temporal Dead Zone?
+in detail
+Function and its code
+
+
+
+
+1.Explain Promise (.then, catch, resolve, reject ) With explanation
+
+2.Give an example of call(), apply(), bind() with explanation
+
+3.Write code to explain map and filter in arrays
+ 
+4.Write a code to create two objects with 2 properties each, one will be string and other will be an array. Create a function to check if all the elements of the arrays in both the objects are same
+
+5.Give an example of async/await
+
+6.Give an example of inheritance using function constructor
+
+7.Please explain Self Invoking Function and its code
